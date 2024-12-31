@@ -35,6 +35,7 @@ The database consists of the following tables:
 5. **Genres**: Categories of music.
 6. **Artists**: Details about artists.
 7. **Albums**: Collections of tracks by artists.
+8. Schema- Music Store Database
  ![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/9e61b8f9-b35e-4503-bb71-5ceec3ed745d)
 
 
