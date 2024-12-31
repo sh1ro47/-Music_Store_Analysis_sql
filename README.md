@@ -1,4 +1,4 @@
-![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/b3f4e648-a5f4-490d-a875-1bbb13b9761b)# Music_Store_Analysis_sql
+# Music_Store_Analysis_sql
  
 This repository contains an analysis of a fictional music store database. The project demonstrates various SQL queries and techniques to extract insights from the database.
 
@@ -36,6 +36,7 @@ The database consists of the following tables:
 6. **Artists**: Details about artists.
 7. **Albums**: Collections of tracks by artists.
 ![Database Schema](images/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png "Music Store Database Schema")
+![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/b3f4e648-a5f4-490d-a875-1bbb13b9761b) 
  
 
 ## How to Use
